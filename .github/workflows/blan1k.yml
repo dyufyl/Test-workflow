@@ -32,8 +32,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          echo Add other actions to build
       - name: SSH Server
           # You may pin to the exact commit or the version.
           # uses: mdelillo/ssh-server-action@6377576aa3c5548f3a209c20771e8411af879668
