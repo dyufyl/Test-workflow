@@ -34,7 +34,7 @@ jobs:
         run: |
           echo Add other actions to build
       - name: SSH Server
-        run: 
-            mkdir test
-            ls
-            echo I have made a folder!
+        run: |
+            mkdir test,
+            ls,
+            echo I have made a folder!.
